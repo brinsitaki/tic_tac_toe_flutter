@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "786174971598",
+    "project_id": "xovibe-d2b67",
+    "storage_bucket": "xovibe-d2b67.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:786174971598:android:f4d6712194b23dbd2f4a9f",
+        "android_client_info": {
+          "package_name": "tn.brtaki.xo_vibe"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyC7HfBfINZRwDhLTBMcsGw4IeqCB1Y_qI0"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
